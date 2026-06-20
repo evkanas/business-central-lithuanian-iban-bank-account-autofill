@@ -6,7 +6,9 @@ EVK Solution is a sample Microsoft Dynamics 365 Business Central extension that 
 
 The extension is designed as a clean public portfolio project for Business Central consultants and AL developers. It contains no production customer, vendor, bank account, or personal data.
 
-<img src="/evkanas/business-central-lithuanian-iban-bank-account-autofill/raw/main/Screenshots/evaldas-jablonskas-business-central-lithuanian-iban-bank-account-autofill.png" alt="Evaldas Jablonskas – Business Central Lithuanian IBAN Bank Account Autofill Microsoft Dynamics 365 Business Central AL portfolio project" width="700" style="max-width: 100%;">
+<p align="center">
+<img src="Screenshots/evaldas-jablonskas-business-central-lithuanian-iban-bank-account-autofill.png" alt="Evaldas Jablonskas – Business Central Lithuanian IBAN Bank Account Autofill Microsoft Dynamics 365 Business Central AL portfolio project" width="700">
+</p>
 
 For instructions aimed at users, consultants, and administrators, see the [User Guide](docs/USER_GUIDE.md).
 
