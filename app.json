@@ -1,0 +1,33 @@
+{
+  "id": "f6f6649e-08cd-4b8d-8f79-26b901291499",
+  "name": "EVK Solution",
+  "publisher": "EVK Solution",
+  "version": "1.0.0.0",
+  "brief": "Autofill bank account cards from Lithuanian IBAN bank codes.",
+  "description": "Maintains a configurable bank directory and autofills customer and vendor bank account details from Lithuanian IBAN bank codes.",
+  "url": "https://github.com/evkanas/business-central-lithuanian-iban-bank-account-autofill",
+  "help": "https://github.com/evkanas/business-central-lithuanian-iban-bank-account-autofill#readme",
+  "contextSensitiveHelpUrl": "https://github.com/evkanas/business-central-lithuanian-iban-bank-account-autofill#readme",
+  "privacyStatement": "https://evaldasjablonskas.lt/",
+  "EULA": "https://evaldasjablonskas.lt/",
+  "logo": "./Images/logo.png",
+  "screenshots": ["screenshots/business-central-lithuanian-iban-bank-account-autofill-overview.png"],
+  "platform":  "28.0.0.0",
+  "application":  "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

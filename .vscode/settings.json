@@ -1,0 +1,12 @@
+{
+  "xliffSync.parseFromDeveloperNote": true,
+  "xliffSync.parseFromDeveloperNoteOverwrite": true,
+  "xliffSync.parseFromDeveloperNoteTrimCharacters": "\"",
+  "xliffSync.defaultLanguages": [
+    "lt-LT"
+  ],
+  "xliffSync.enableSnippetsForLanguages": [
+    "al"
+  ],
+  "xliffSync.snippetTargetLanguage": "lt-LT"
+}

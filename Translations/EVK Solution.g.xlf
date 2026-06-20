@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="EVK Solution">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 929963657 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EVK Bank Directory</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="EVK bankų žinynas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 929963657 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Adresas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 929963657 - Field 3089817519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Branch No.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Banko skyriaus kodas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Field Bank Branch No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 929963657 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Miestas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 929963657 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Kodas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 929963657 - Field 2378863201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact Name</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Kontaktinis asmuo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Field Contact Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 929963657 - Field 1541011875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="El. paštas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Field E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 929963657 - Field 2909674232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Svetainė"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Field Home Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 929963657 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Pavadinimas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 929963657 - Field 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Telefono nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Field Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 929963657 - Field 3660300303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Pašto kodas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Field Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 929963657 - Field 428874574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SWIFT Code</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="SWIFT kodas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EVK Bank Directory - Field SWIFT Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EVK Bank Directory Card</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="EVK banko žinyno kortelė"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 3050372732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Communication</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Ryšiai"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control Communication - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 2378863201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank contact name used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą banko kontaktinį asmenį."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control Contact Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank email address used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą banko el. pašto adresą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 2909674232 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank website used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą banko svetainę."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control Home Page - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank phone number used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą banko telefono numerį."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Bendra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank address used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą banko adresą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 3089817519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the five-digit Lithuanian bank code found in positions 5 through 9 of an IBAN.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo penkių skaitmenų Lietuvos banko kodą IBAN 5–9 pozicijose."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control Bank Branch No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank city used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą banko miestą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unique directory entry code.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo unikalų žinyno įrašo kodą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank name used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą banko pavadinimą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 3660300303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank post code used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą banko pašto kodą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control Post Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4350805 - Control 428874574 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the SWIFT code used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą SWIFT kodą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory Card - Control SWIFT Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 10041727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EVK Bank Directory</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="EVK bankų žinynas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 10041727 - Control 3089817519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the five-digit Lithuanian bank code found in positions 5 through 9 of an IBAN.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo penkių skaitmenų Lietuvos banko kodą IBAN 5–9 pozicijose."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory List - Control Bank Branch No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 10041727 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank city used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą banko miestą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory List - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 10041727 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unique directory entry code.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo unikalų žinyno įrašo kodą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory List - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 10041727 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank name used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą banko pavadinimą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory List - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 10041727 - Control 428874574 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the SWIFT code used for autofill.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo automatiškai pildomą SWIFT kodą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Bank Directory List - Control SWIFT Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1264008250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EVK Bank Autofill</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="EVK banko duomenų pildymas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet EVK Bank Autofill - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
