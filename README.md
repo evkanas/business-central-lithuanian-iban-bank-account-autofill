@@ -2,7 +2,7 @@
 
 Created by **Evaldas Jablonskas**.
 
-EVK Solution is a sample Microsoft Dynamics 365 Business Central extension that autofills customer and vendor bank account cards from a Lithuanian IBAN and a user-maintained bank directory.
+Business Central Lithuanian IBAN Bank Account Autofill is a sample Microsoft Dynamics 365 Business Central extension that autofills customer and vendor bank account cards from a Lithuanian IBAN and a user-maintained bank directory.
 
 The extension is designed as a clean public portfolio project for Business Central consultants and AL developers. It contains no production customer, vendor, bank account, or personal data.
 
